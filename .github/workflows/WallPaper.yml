@@ -1,5 +1,6 @@
 name: Fetch Images Every Day
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
