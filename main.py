@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 import json 
 
-url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN'
+url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN&uhd=1&uhdwidth=3840&uhdheight=2160'
 response = requests.get(url)
 
 imgurl=f'https://www.bing.com{response.json()["images"][0]["url"]}'
