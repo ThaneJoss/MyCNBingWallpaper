@@ -68,7 +68,7 @@ description="""
 
 这个项目是基于 GitHub Actions 的，旨在简化访问迷人的必应每日图片的过程。每天，必应在其主页展示一张令人惊叹的图片，代表着自然、文化等各个方面。
 
-您可以在 [thanejoss.com](https://cn.thanejoss.com) 浏览完整合集。 *(todo)*
+您可以在 [cn.thanejoss.com](https://cn.thanejoss.com) 浏览完整合集。 *(todo)*
 
 要获取原始图片，请使用以下链接：[今日壁纸](https://cn.bingwallpaper.thanejoss.com)。 *(todo)*
 
@@ -85,13 +85,13 @@ description="""
 ## 使用方法
 
 1. Fork 此存储库。
-2. 每天 UTC 时间 16:00 或每当您向存储库推送提交时，脚本将自动运行并获取最新的必应壁纸图片。
+2. 每天 UTC+8 时间 00:00 或每当您向存储库推送提交时，脚本将自动运行并获取最新的必应壁纸图片。
 
 ## 贡献
 欢迎对这个项目进行贡献。如果您发现任何问题或有改进建议，请随时提出问题或提交拉取请求。
 
 ---
-使用 MyBingWallpaper，通过 GitHub Actions 轻松享受迷人的必应每日图片吧！
+使用 MyCNBingWallpaper，通过 GitHub Actions 轻松享受迷人的必应每日图片吧！
 """
 
 
