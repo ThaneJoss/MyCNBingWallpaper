@@ -44,7 +44,7 @@ info={f"{imgdate}.jpg":
 }
 
 with open(f"{storepath}/{imgdate}.json", "w",encoding='utf-8') as f:
-    json.dump(info, f)
+    json.dump(info, f,ensure_ascii=False,indent=4)
     
 
 img.save('today.jpg', **save_kwargs)
