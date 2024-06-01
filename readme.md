@@ -1,7 +1,7 @@
 
 # My CN Bing Wallpaper
 ![bing](today.jpg) 
-*update time: 2024-05-31 16:10:37 UTC*
+*update time: 2024-06-01 16:09:26 UTC*
 
 
 这个项目是基于 GitHub Actions 的，旨在简化访问迷人的必应每日图片的过程。每天，必应在其主页展示一张令人惊叹的图片，代表着自然、文化等各个方面。
